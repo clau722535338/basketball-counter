@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    background: #1B244A;
+    color: #EEEEEE;
+    font-family: verdana, sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin: 20px 0 10px 0;
+}
+
+.sub {
+    font-family: CursedTimerUlil, sans-serif;
+}
+
+.points {
+    background: #080001;
+    color: #F94F6D;
+    height: 120px;
+    width: 155px;
+    font-size: 80px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-bottom: 25px;
+}
+
+button {
+    font-family: CursedTimerUlil, sans-serif;
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    background-color: #1B244A;
+    color: #9AABD8;
+    height: 45px;
+    width: 45px;
+}
